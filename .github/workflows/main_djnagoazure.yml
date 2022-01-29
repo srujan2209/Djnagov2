@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'DjnagoAzure'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1CAF05BA7B8A46CDA64F6AB3BA01C8C8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1339C92455FA4BF5A6CF0363781AFB73 }}
